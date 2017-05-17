@@ -1,0 +1,7 @@
+baseURL = "https://xuzhe0628.github.io/myblog/"
+languageCode = "en-us"
+title = "Xu Zhe's Blog"
+
+[Params]
+  Author = "Xu Zhe"
+  disqusShortname = "xuzhe91"
