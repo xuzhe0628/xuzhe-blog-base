@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://xuzheblog.netlify.com/"
+baseurl = "http://xuzhe91.com/"
 # HTML Language Code Reference, such as en, zh-cn
-languageCode = "en"
+languageCode = "zh-cn"
 title = "Xu Zhe's Blog"
 theme = "hugo-theme-cactus-plus"
 # Enter your tracking code to enable Google Analytics

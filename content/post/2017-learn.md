@@ -1,7 +1,7 @@
 +++
 categories = ["coding", "data"]
 date = "2017-05-17T16:53:50+08:00"
-description = ""
+description = "Self-development plan in data science"
 tags = ["machine-learning", "data science", "coding"]
 title = "2017学习计划"
 
@@ -9,7 +9,7 @@ title = "2017学习计划"
 
 今年准备提升自己在计算机科学，统计学，机器学习和数据挖掘方面的知识，达到能够在工作中应用常见机器学习和数据挖掘算法的能力。所以今年我参加了一些在线课程和数据竞赛去学习相关知识和增加项目经验。下面列出这些课程和比赛的网址供大家参考。希望年底的时候可以完成这张清单上的项目。
 
-# Completed#
+# Completed #
 
 [Introduction to Data Science in Python] (https://www.coursera.org/learn/python-data-analysis/home/welcome)
 
@@ -19,7 +19,7 @@ title = "2017学习计划"
 
 最近刚刚完成的一门课程。因为工作要使用MongoDB，所以选择了这门官方课程。强烈推荐，课程讲解了MongoDB的原理，安装，配置，CRUD操作，aggregate，index，sharding等知识。课后的习题也都能帮助你巩固常见操作。学习完以后业可以趁热打铁考一下MongoDB的认证。
 
-# Active#
+# Active #
 
 [Machine Learning] (https://www.coursera.org/learn/machine-learning/home/welcome)
 
@@ -37,7 +37,7 @@ Udacity上机器学习的纳米学位，算是今年计划里的一个重点项�
 
 著名的机器学习竞赛网站，参加了泰坦尼克号预测生还者的练手项目。不过准确率还不理想，一边学习一边优化模型。争取今年完成一个实战的比赛。
 
-# Planned#
+# Planned #
 
 [Data Science Math Skills] (https://www.coursera.org/learn/datasciencemathskills/home/welcome)
 
